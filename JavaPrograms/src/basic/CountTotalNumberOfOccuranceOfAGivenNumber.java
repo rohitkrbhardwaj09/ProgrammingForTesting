@@ -1,16 +1,16 @@
-package basic;
+// package basic;
 
-public class CountTotalNumberOfOccuranceOfAGivenNumber {
+// public class CountTotalNumberOfOccuranceOfAGivenNumber {
 
-    public static void main(String[] args) {
+//     public static void main(String[] args) {
 
-        String str = "Javascript is Javascript again Javascript";
+//         String str = "Javascript is Javascript again Javascript";
 
-        char c = 'a';
+//         char ch = 'a';
 
-        int count = str.length() - str.replace("a", "").length();
+//         int count = str.length() - str.replace(ch, "").length();
 
-        System.out.println(count);
-    }
+//         System.out.println(count);
+//     }
 
-}
+// }
